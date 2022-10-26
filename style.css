@@ -64,3 +64,85 @@ nav b{
 
 
 }
+.container{
+    width: 100%;
+      display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+.box1{
+    width: 90%;
+    height: 70vh;
+    margin-left: 10%;
+}
+.box1 img{
+    margin-left: 3%;
+}
+.box2{
+    width: 90%;
+    height: 70vh;
+    margin-left: 10%;
+
+}
+.box3{
+    width: 90%;
+    height: 70vh;
+    margin-left: 10%;
+
+}
+.box1 p{
+    font-size: 27px;
+    width: 65%;
+    margin-left: 13%;
+    margin-top: 2.5%;
+}
+.box2 p{
+    font-size: 27px;
+    width: 65%;
+    margin-left: 13%;
+    margin-top: 2.5%;
+}
+.box3 p{
+    font-size: 27px;
+    width: 65%;
+    margin-left: 13%;
+    margin-top: 2.5%;
+}
+.box4{
+    width: 90%;
+    height: 70vh;
+    margin-left: 10%;
+}
+.box4 img{
+    margin-left: 3%;
+}
+.box5{
+    width: 90%;
+    height: 70vh;
+    margin-left: 10%;
+
+}
+.box6{
+    width: 90%;
+    height: 70vh;
+    margin-left: 10%;
+
+}
+.box4 p{
+    font-size: 27px;
+    width: 65%;
+    margin-left: 13%;
+    margin-top: 2.5%;
+}
+.box5 p{
+    font-size: 27px;
+    width: 65%;
+    margin-left: 13%;
+    margin-top: 2.5%;
+}
+.box6 p{
+    font-size: 27px;
+    width: 65%;
+    margin-left: 13%;
+    margin-top: 2.5%;
+}

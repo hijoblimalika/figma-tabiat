@@ -1,4 +1,8 @@
 @media screen and (max-width:700px){
+    .ja_img img{
+        width: 220%;
+        margin-left: 50%;
+    }
     .item{
         transform: translateX(-50px);
     }
@@ -7,6 +11,24 @@
     }
     .ja_img img{
         width: 250%;
+    }
+    .container{
+        margin-top: 25%;
+    }
+    .ja_text h1{
+        display: none;
+    }
+    .ja_text p{
+        display: none;
+    }
+    .box4{
+        margin-top: 25%;
+    }
+    .box5{
+        margin-top: 25%;
+    }
+    .box6{
+        margin-top: 25%;
     }
     }
 @media screen and (max-width:512px){
@@ -17,6 +39,10 @@
         transform: translateX(-80px);
         margin-top: 27px;
 
+    }
+    .ja_img img{
+        width: 320%;
+        margin-left: 95%;
     }
     .ja_text h1{
         width: 180%;
@@ -31,26 +57,104 @@
 }
 @media screen and (max-width:416px){
     .ja_img img{
-        width: 230%;
+        width: 800px;
+        transform: translateX(-12%) translateY(5%);
+
+
     }
     .item{
         display: none;
 
     }
+    nav b{
+        font-size: 30px;
+        margin-left: 25%;
+    }
     .collection i{
         display: block;
         margin-top: 20px;
-        transform: translateX(-70px)
+        /* transform: translateX(-70px) */
+        font-size: 50px;
+        transform: translateX(580%);
     }
     .ja_text h1{
         font-size: 35px;
         transform: translateX(28px) translateY(-257px);
+        font-weight: 600;
     }
     .ja_text p{
         font-size: 20px;
         transform: translateX(18px) translateY(-265px);
 
     }
-
+    .container{
+        display: block;
+    }
+    .box1 img{
+        width: 180%;
+        margin-left: 30%;
+    }
+    .box1 p{
+        width: 180%;
+        font-size: 70px;
+        margin-left: 32%;
+        margin-top: 10%;
+    }
+    .box2 img{
+        width: 180%;
+        margin-left: 30%;
+        margin-top: 120%;
+    }
+    .box2 p{
+        width: 180%;
+        font-size: 70px;
+        margin-left: 32%;
+        margin-top: 10%;
+    }
+    .box3 img{
+        width: 180%;
+        margin-left: 30%;
+        margin-top: 280%;
+    }
+    .box3 p{
+        width: 180%;
+        font-size: 70px;
+        margin-left: 32%;
+        margin-top: 10%;
+    }
+    .box4 img{
+        width: 180%;
+        margin-left: 30%;
+        margin-top: 400%;
+    }
+    .box4 p{
+        width: 180%;
+        font-size: 70px;
+        margin-left: 32%;
+        margin-top: 10%;
+    }
+    .box5 img{
+        width: 180%;
+        margin-left: 30%;
+        margin-top: 500%;
+    }
+    .box5 p{
+        width: 180%;
+        font-size: 70px;
+        margin-left: 32%;
+        margin-top: 10%;
+    }
+    .box6 img{
+        width: 180%;
+        margin-left: 30%;
+        margin-top: 500%;
+    }
+    .box6 p{
+        width: 180%;
+        font-size: 70px;
+        margin-left: 32%;
+        margin-top: 10%;
+    }
+   
 
 }
