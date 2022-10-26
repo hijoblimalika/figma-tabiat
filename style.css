@@ -146,3 +146,30 @@ nav b{
     margin-left: 13%;
     margin-top: 2.5%;
 }
+.container2{
+    width: 100%;
+    display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 20px;
+}
+.idiw1{
+    margin-left: 12%;
+}
+.idiw3{
+    margin-left: 12%;
+}
+.idiw1 p{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.idiw2 p{
+    margin-top: 5%;
+}
+.idiw3 p{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.idiw4 p{
+    margin-top: 5%;
+}

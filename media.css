@@ -31,6 +31,9 @@
         margin-top: 25%;
     }
     }
+    .container2{
+        margin-top: 20%;
+    }
 @media screen and (max-width:512px){
     nav b{
         margin-top: 5%;
@@ -54,11 +57,20 @@
         transform: translateY(-145px) translateX(45px);
 
     }
+    .container2{
+        display: block;
+    }
+    .container2 p{
+        display: none;
+    }
+    .container2 img{
+        width: 300%;
+    }
 }
 @media screen and (max-width:416px){
     .ja_img img{
-        width: 800px;
-        transform: translateX(-12%) translateY(5%);
+        width: 1000px;
+        transform: translateX(-8%) translateY(5%);
 
 
     }
@@ -89,6 +101,8 @@
     }
     .container{
         display: block;
+        margin-left: 22%;
+        margin-top: 50%;
     }
     .box1 img{
         width: 180%;
@@ -155,6 +169,18 @@
         margin-left: 32%;
         margin-top: 10%;
     }
-   
+    .idiw1 img{
+    margin-top: 850%;    
+    margin-left: 5%; 
+
+    }
+    .container2 p{
+        width: 200%;
+        display: block;
+        font-size: 60px;
+    }
+    .idiw2{
+        margin-top: 85%;
+    }
 
 }
