@@ -29,7 +29,7 @@
 
     }
 }
-@media screen and (max-width:415px){
+@media screen and (max-width:412px){
     .ja_img img{
         width: 230%;
     }
@@ -44,11 +44,11 @@
     }
     .ja_text h1{
         font-size: 35px;
-        transform: translateX(28px) translateY(-277px);
+        transform: translateX(28px) translateY(-597px);
     }
     .ja_text p{
         font-size: 20px;
-        transform: translateX(18px) translateY(-275px);
+        transform: translateX(18px) translateY(-575px);
 
     }
 
