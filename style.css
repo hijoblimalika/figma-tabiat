@@ -173,3 +173,25 @@ nav b{
 .idiw4 p{
     margin-top: 5%;
 }
+.futr0{
+    width: 100%;
+    height: 80vh;
+    background: #000;
+    margin-top: 10%;
+    display: flex;
+}
+.futr0 b{
+    color: #fff;
+    font-size: 25px;
+    transform: translateX(105px) translateY(120px);
+}
+.futrr{
+    color: #fff;
+    margin-left: 10%;
+    margin-top: 18%;
+}
+.futrrr{
+    color: #fff;
+    margin-left: 10%;
+    margin-top: 18%;
+}
